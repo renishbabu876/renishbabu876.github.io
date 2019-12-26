@@ -297,9 +297,7 @@ input {
   border: none;
   background: rgba(242, 242, 242, 0.4);
 }
-#comment.form-control {
 
-}
 .form-group button {
   background: #262628 none repeat scroll 0 0;
   color: #fff;
@@ -601,6 +599,9 @@ input {
 
 @media only screen and (max-width: 480px) {
   header { height: 50vh; }
+  .service{
+    width: auto;
+  }
 }
 .container2 {
   position: relative;
@@ -805,6 +806,15 @@ html {
     text-align: left;
   }
 }
+@media screen and (min-width:480px){
+ .
+}
+html,body {
+  margin:0;
+  padding:0;
+}
+
+
 
 
 
