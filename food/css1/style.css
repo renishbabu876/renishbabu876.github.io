@@ -1,0 +1,75 @@
+   .bs-example{
+        margin: 70px;
+        background-color:         
+    }
+    /* Style to change separator  */
+    .breadcrumb-item + .breadcrumb-item::before {
+        content: ">";
+    }
+    .checked {
+  color: purple;
+}
+#Cheese{
+    font-size: 17px;
+    margin: 0;
+    line-height: 21px;
+    font-family: aileronsemibold;
+    outline: 0!important;
+    border-radius: 0;
+}
+#Ave{
+    display: block;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+   
+    
+color: #b2b2b2;
+font-size: 12px;
+line-height: normal;
+margin-top: 30px;
+    margin-left: 24px;
+}
+#rat{
+    color: #f7f7f7;
+    background-color: #410078;
+    width: 26px;
+    margin-left: 28px;
+}
+.intel{
+        margin-top: -40px;
+        word-spacing: -7px;
+        margin-left: 31px;
+}
+#reviews{
+        margin-left: 131px;
+    display: block;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    color: #b2b2b2;
+    font-size: 12px;
+    line-height: normal;
+    margin-top: -18px;
+}
+#Ontario{
+    margin-left: -38px;
+}
+.gta{
+    margin-top: 15px;
+}
+.button{
+    background-color: #f0eeee;
+  border: none;
+  color: #410079;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  width: 239px;
+    /* margin-bottom: 21px; */
+    margin-top: 9px;
+}
